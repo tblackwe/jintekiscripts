@@ -12,7 +12,7 @@
     'use strict';
     var size = '20px';
     var logsize = '15px';
-    var newBackgroundImage = "http://kavkart.com/image/cache/catalog/quote/Hack%20The%20Planet-1920x1080.jpg";
+    var newBackgroundImage = "https://i.ytimg.com/vi/zr3xHafveCM/maxresdefault.jpg";
     
     function addGlobalStyle(css) {
         var head, style;
