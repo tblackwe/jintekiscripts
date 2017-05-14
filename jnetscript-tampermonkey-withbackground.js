@@ -12,7 +12,7 @@
     'use strict';
     var size = '20px';
     var logsize = '15px';
-    var newBackgroundImage = "http://s1.picswalls.com/wallpapers/2015/10/11/hd-sci-fi-wallpaper_010015384_283.jpg";
+    var newBackgroundImage = "http://kavkart.com/image/cache/catalog/quote/Hack%20The%20Planet-1920x1080.jpg";
     
     function addGlobalStyle(css) {
         var head, style;
